@@ -1,8 +1,5 @@
 # **DiRe**
 
-
-#### Team Name : **DNBS**
-
 ## 👩‍💻 Team members
 - **Bhavik Bharambe** - bhavik.bharambe02@gmail.com
 - **Naman Kothari** - nskothari_b20@ce.vjti.ac.in
