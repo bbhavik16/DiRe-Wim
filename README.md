@@ -1,14 +1,8 @@
 # **DiRe**
 
-
-#### Team Name : **DNBS**
-
 ## 👩‍💻 Team members
-
-- **Nishant Patil** - patilnishant0311@gmail.com
 - **Bhavik Bharambe** - bhavik.bharambe02@gmail.com
-- **Dhrumil Raigagla** - dhrumilraigagla@gmail.com
-- **Satyam Bindroo** - sbindroo_b20@ce.vjti.ac.in
+- **Naman Kothari** - nskothari_b20@ce.vjti.ac.in
 
 ## 📝 Description
 *DiRe Website* will help people affected by disasters to connect & get help from the entire world. The website focuses on collecting donations from over the country and also connecting with people to volunteer for various works in disaster affected areas.
@@ -22,7 +16,7 @@ This website will also provide general awareness, guidelines and rules during va
 
 ## 🔗 Links
 
-- GitHub repo link: [Link to repository](https://github.com/Nishtan/DiRe)
+- GitHub repo link: [Link to repository](https://github.com/bbhavik16/DiRe-Wim)
 - Drive link (Screenshots): [Drive link here](https://drive.google.com/drive/folders/1KPdzv5iExtERCmof42gtAjJugaGFvFlM?usp=sharing)
 
 ## 🤖 Technology Stack
