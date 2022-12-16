@@ -21,7 +21,9 @@ const User = require('./models/user');
 const GoogleStrategy = require('passport-google-oauth20').Strategy;
 require('./passport-setup.js')
 
-mongoose.connect('mongodb://localhost:27017/bhavik', {
+const dbUrl = process.env.DB_URL || 'mongodb://localhost:27017/bhavik'
+
+mongoose.connect(dbUrl, {
   useNewUrlParser: true,
   useUnifiedTopology: true,
 });
